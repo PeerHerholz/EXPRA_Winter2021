@@ -7,89 +7,70 @@ titlesonly: true
 ---
 ```
 
-![gorella logo](static/gorella_logo.png)
-
-```{admonition} About the content of this Jupyter Book
-:class: warning
-This page is currently under construction and will be updated continiously.
-Pleae visit this page again in the next feew weeks for further information.
-```
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4279400.svg)](https://doi.org/10.5281/zenodo.4279400)
+<img align="center" src="https://raw.githubusercontent.com/PeerHerholz/EXPRA_Winter2021/master/lecture/static/undraw_Processing_re_tbdu.png" alt="logo" title="Twitter" width="500" height="300" />
 
 # Welcome!
 
-Hello everyone and welcome to the documentation page for the GORELLA base
-skeleton, we're glad to see you here!
-For more information on the GORELLA project see
-[here](https://g0rella.github.io/gorella_overview/).
+````{margin}
+```{warning} 
+These pages are currently under construction and will be updated continuously.
+Please visit these pages again in the next few weeks for further information.
+````
 
-Within these pages, we provide the basic elements needed to implement the
-GORELLA framework on your lecture.
+Hello everyone and welcome to the course page for "EXPRA - group 8", taught
+within the [Psychology bachelor programme](https://www.goethe-university-frankfurt.de/51789866/Institute_of_Psychology?) of the [Goethe-University Frankfurt](https://www.goethe-university-frankfurt.de/en) during the winter term 2021. We're glad to see you here!
 
-## What's all this now?
+Within these pages, we provide the all information important to follow and conduct the course, including formal aspects, requirements, lecture materials, practicals and so on.  This [jupyter book](https://jupyterbook.org/intro.html) will include the used slides and code in a way that they can be explored in an interactive manner. You can navigate through the respective sections via the TOC on the left side and within sections via the TOC on the right side. The three symbols in the top allow to enable full screen mode, link to the underlying [Github repository]() and allow you to download the contents as a pdf or [jupyter notebook]() respectively. Some sections will additionally have a little rocket in that row which will allow you to interactively rerun certain parts of the practicals via cloud computing. Additionally, we support public reviews and comments through an [hypothes.is]() plugin with which you can interact on the right side. All of this awesomeness (talking about the infrastructure and resource) is possible through the dedicated and second to none work of the [Jupyter community](https://jupyter.org/), specifically, the [Executable/Jupyter Book](https://executablebooks.org/en/latest/) and [mybinder project](https://mybinder.org/).
 
-GORELLA stands for "Generalizable Outline for Realistic Empirical Life
-Science Lectures and their Applications". It is a framework aimed to
-improve openness and sustainability in scientific teaching and training.
-GORELLA is designed to help you prepare and supply lecture content
-in a way that it is [FAIR](https://en.wikipedia.org/wiki/FAIR_data) for as
+
+## EXPRA
+
+This course is designed to provide lecture content in a way that it 
+is [FAIR](https://en.wikipedia.org/wiki/FAIR_data) for as
 many people as possible.
 
-You can use the following sections to organize the content of your lecture:
+You can use the following sections to navigate through the content of the lecture:
 
-* [GORELLA - an overview](https://g0rella.github.io/gorella_base/overview.html)
+* [An overview]()
 
-   What's the problem and how are we propose to solve it?
+   What's this course all about?
 
-* [General procedure](https://g0rella.github.io/gorella_base/procedure.html)
+* [General procedure]()
 
-   How are things implemented and supposed to work?
+   How are things implemented and supposed to work? 
 
-* [General outline](https://g0rella.github.io/gorella_base/outline.html)
+* [General outline]()
 
    What are the specific topics and aspects taught?
 
-* [Introduction & theory building](https://g0rella.github.io/gorella_base/introduction_theory_building.html)
+* [An introduction to the scientific method & theory building]()
 
-   All things gotta start somewhere and scientific projects are no exception to
+   All things gotta start somewhere and working on a research project is no exception to
    that, but how?
 
-* [Data analyses](https://g0rella.github.io/gorella_basedata_analyses.html)
+* [Experimentation]()
 
-   How to obtain insights from data?
+   How to set up and conduct experiments to acquire data from participants and subsequently analyze it? 
 
-* [Results communication](https://g0rella.github.io/gorella_base/results_communication.html)
+* [Project finalization]()
 
-   Where should the acquired knowledge to be disseminated?
+   How can you successfully generate insights from your obtained results and communicate those sufficiently? 
 
-* [Symposium](https://g0rella.github.io/gorella_base/symposium.html)
-
-   What to do about outreach and discourse creation?
-
-* [Student projects](https://g0rella.github.io/gorella_base/projects.html)
+* [Student projects]()
 
    Making sure the work and progress of the participants is transparent and
    documented.
 
-* [Questionnaires](https://g0rella.github.io/gorella_base/questionnaires.html)
+* [Questionnaires]()
 
    Was it worth it and how can this be evaluated?
 
-* [GORELLA tutorial](https://g0rella.github.io/gorella_overview/tutorial.html)
-
-   Are there guidelines on how to start?
-
-* [Code of Conduct](https://g0rella.github.io/gorella_overview/CoC.html)
+* [Code of Conduct]()
 
    Necessities for creating an open, fair, safe and inclusive learning
    experience.
 
 ## I've got a question!
 
-In case you have any questions or difficulties applying the GORELLA framework
-to your lecture, please don’t hesitate a single second to get in touch with
-us. A great way to do this is to
-[open an issue](https://github.com/G0RELLA/gorella_base/issues) on the
-GitHub site of the GORELLA base skeleton.
-We would also highly appreciate and value every feedback or idea or you
-might have.
+In case you have any questions or difficulties with the lecture and its materials, please don’t hesitate a single second to get in touch with us. A great way to do this is to [open an issue](https://github.com/PeerHerholz/EXPRA_Winter2021/issues) on the
+GitHub site of the course. We would also highly appreciate and value every feedback or idea or you might have.

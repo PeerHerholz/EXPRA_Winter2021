@@ -13,25 +13,37 @@ As mentioned in the [overview & procedure]() section, the course will take place
 
 ### Schedule
 
-Please see below for our current _optimistic_ schedule. Depending on our progress, potential problems and different forms of learning, content and times might change a bit. Each lecture will be divided into several parts separated by a 5-10 minute break and might constitute a transition from basic to advanced concepts, theoretic to practical sessions and individual to group work.
+Please see below for our current _optimistic_ schedule. Depending on our progress, potential problems and different forms of learning, content and times might change a bit. Each lecture will be divided into several parts separated by a 5-10 minute break and might constitute a transition from basic to advanced concepts, theoretic to practical sessions and individual to group work. The different parts are roughly indicate in the schedule below like this:
+
+🗓 - important information on date & time  
+💡 - input from the instructor   
+👨🏻‍🏫 - instructor presents content  
+🥼 - research project work  
+🧑🏽‍💻🧑🏾‍💻 - work on demo experiment  
+🧑🏿‍🔬👩🏻‍🔬 - work on own research project  
+🖥️ - computational work outside course hours  
+✍🏽 - writing outside course hours  
+📖 - reading outside course hours  
 
 **Please note** that the course is scheduled to take place weekly in a 4 hour block, this will change substantially as the semester progresses and you will do more practical work acquiring and analyzing data, work on assignments and do group projects. Thus, some weeks we won't meet at all and some weeks for a certain amount of time. All of this will be communicated to you in a timely manner.  
 
 **Please note** that there will be "winter holidays" from December 18th, 2021 - January 13th, 2022 and no classes will take place within this time period.  
 
-| Date (day/month/year)         | Topic     | Project-related work |
-|--------------|-----------|------------|
-| 20/10/2021 | Introduction I - course information, setup & demo experiment     |  not applicable       |
-| 27/10/2021 | Introduction II - experimentation, inference & research methods  | finding and distributing sub-projects  |
-| 03/11/2021 | Introduction III - scientific writing  | literature search & pre-registration |
-| 10/11/2021 | Introduction IV - data analyzes & open science  | literature search & pre-registration      |
-| 17/11/2021 | Experimentation I - journal club I & R workshop  | project workshop - preparation |
-| 24/11/2021 | Experimentation II - journal club II & stats workshop  | project workshop - data acquisition  |
-| 01/12/2021 | Experimentation III - inference & causality  | project workshop - data acquisition & analyzes |
-| 08/12/2021 | Experimentation IV - notes on comparative & evolutionary psychology  | project workshop - data acquisition & analyzes |
-| 15/12/2021 | Experimentation V - journal club III & the academic system  | project workshop - data acquisition & analyzes |
-| 12/01/2022 | Project finalization I - results communication  | project workshop - poster preparation  |
-| 19/01/2022 | Project finalization II - journal club III & Psychology 1.0  | project workshop - consolidation  |
-| 26/01/2022 | Project finalization III - data visualization  | project workshop - visualization techniques  |
-| 02/02/2022 | Project finalization IV - knowledge dissemination & outreach | project workshop - summarizing results & final analyzes discussion |
-| 09/02/2022 | Poster session & party & wrap up  | presentation of projects |
+
+| Date (day/month/year)  🗓   | Topics 💡👨🏻‍🏫    | Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  | Project related work 🥼🧑🏿‍🔬👩🏻‍🔬 | tasks for subsequent meeting 🖥️✍🏽📖 |
+|--------------|-----------|------------|------------|------------|
+| 20/10/2021 | Introduction I - course information/overview/outline, Knowledge generation  | take part in demo experiment     |  not applicable   | [re-cap R lectures](), [install software]() |
+| 27/10/2021 | Introduction II - project & data management, information about experiment, pre-registration   | pre-registration & analyze results of demo experiment  |  not applicable | reading literature about [experiment]() & [Mensh & Kording 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619) | 
+| 03/11/2021 | Introduction III - scientific reading & writing  | data management plan & start writing report | not applicable | reading [Newell 1973](http://shelf2.library.cmu.edu/Tech/240474311.pdf) & [Kesslyn 2006](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.497.2403&rep=rep1&type=pdf) |
+| 10/11/2021 | Introduction IV - reviewing  | work on report | brainstorm ideas, literature search, define projects and groups | demo report draft | 
+| 17/11/2021 | Experimentation I - experimentation, inference & models  | not applicable | pre-registration, information/consent, data management plan | demo experiment report draft, materials for own project, reading [Makin & Orban de Xivry 2019](https://elifesciences.org/articles/48175) |
+| 24/11/2021 | Experimentation II - no input from instructor  | not applicable | review & feedback for other groups' pre-registration, information/consent & data management plans, set up & test online experiment | incorporate feedback & prepare presentation of your own study, finalize demo experiment report |
+| 01/12/2021 | Experimentation III - no input from instructor  | peer review of other groups' demo experiment report | presentation of your own study | work in reviews and finalize demo report, work in feedback for your own study  |
+| 08/12/2021 | Experimentation IV - no input from instructor  | **deadline demo experiment report: 12 PM CET** | independent work on your project: recruitment, data collection, analyses drafting, report writing  | reading [The Book of Why, Ch. 1 & 4]() | 
+| 15/12/2021 | Experimentation V - logic & causation, Game of academics  | not applicable | independent work on your project: recruitment, data collection, analyses drafting, report writing | independent work on projects, preparation of journal club |
+| winter break | winter break | winter break | winter break | winter break |
+| 12/01/2022 | Project finalization I - demo report feedback  | not applicable  | journal club I, independent work on your project: recruitment, data collection, analyses drafting, report writing | independent work on projects, reading [Rougier et al., 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161295/) |
+| 19/01/2022 | Project finalization II - data visualization  | not applicable  | journal club II, independent work on your project: recruitment, data collection, analyses drafting, report writing | independent work on projects, reading [Erren & Bourne 2007](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876493/), [Gundogan et al. 2016](https://www.sciencedirect.com/science/article/pii/S2049080116301303), [Scientific poster guide from UC Davis](https://urc.ucdavis.edu/sites/g/files/dgvnsk3561/files/local_resources/documents/pdf_documents/How_To_Make_an_Effective_Poster2.pdf), [Callie Chappell blog post](https://www.calliechappell.com/blog/scientific-poster), [NPR post on](https://www.npr.org/sections/health-shots/2019/06/11/729314248/to-save-the-science-poster-researchers-want-to-kill-it-and-start-over?t=1633527588204)|
+| 26/01/2022 | Project finalization III - scientific posters  | not applicable  | independent work on your project: recruitment, data collection, analyses drafting, report writing | independent work on projects, poster draft |
+| 02/02/2022 | Project finalization IV - no input from instructor | not applicable | independent work on your project: recruitment, data collection, analyses drafting, report writing -> **final analysis session** | independent work on projects, finalize poster |
+| 09/02/2022 | Project finalization V - science outreach & staying in the loop, feedback & discussion, Q&A  | not applicable | poster presentations | **deadline reports: 23.02.2022 12 PM CET** |

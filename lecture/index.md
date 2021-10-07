@@ -7,7 +7,7 @@ titlesonly: true
 ---
 ```
 
-<img align="center" src="https://raw.githubusercontent.com/PeerHerholz/EXPRA_Winter2021/master/lecture/static/undraw_Processing_re_tbdu.png" alt="logo" title="Twitter" width="500" height="300" />
+<img align="center" src="https://raw.githubusercontent.com/PeerHerholz/EXPRA_Winter2021/master/lecture/static/undraw_Processing_re_tbdu_expra.png" alt="logo" title="logo" width="600" height="300" />
 
 # Welcome!
 

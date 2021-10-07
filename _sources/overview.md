@@ -73,12 +73,33 @@ Additional reading material might be added but will always be open & free with s
 
 #### How to get those credits?
 
+As this is a practical lab course intended to provide you with an introduction to the workflow and life cycle of scientific research projects via a mixture of guided and  independent work, your assignments and tasks will be rather diverse and quite different from other modules. This is by all means intended and founded on the idea that this course should entail a holistic overview of the research process beyond the classic "do this, do that, n=30, do a t-test, tell a story, publish or perish" nonsense. Instead, the goal is to enable you to critically perceive and evaluated research, its implementation and its outcomes, regarding both your own work and that of others. The assignments and tasks aim to reflect these aspects and will entail working on research projects, evaluating that of others, reading project-related and general research-related literature and more. The different parts and grading scheme are further outlined below. 
+
 ##### Exams and Assignments
 
+In general, there will be two classes of assignments and tasks you need to work on in order to (successfully) pass this course: ungraded assessments and graded exams. The first will take place throughout the semester at various time points whereas the latter will entail two written research reports, one mid-term at roughly half of the semester and one final three weeks after the last session. 
 
+The ungraded assessments focus on different parts of the research workflow and your active engagement with them:
+
+- reading articles/materials for your project/that are assigned for class (individually or in groups)
+- present a research article (journal club) related to your project (individually)
+- conduct reviews of another group's project and provide feedback (in groups) 
+- prepare a scientific poster showcasing the results of your experiment (in groups) 
+
+The graded exams aim to assess your ability to bring the different parts of the research workflow together:
+
+- write a research report on the demo experiment (in groups)
+- write a 15-page research report in the style of a scientific paper summarizing your experiment (individually) 
 
 ##### Grading
 
+Your final course grade will be determined by all these aspects, however with a different weight. As mentioned above, the graded exams will entail two written research reports. They will have the biggest weight in the calculation of your grade, both 40%. The ungraded assessments will be, you guessed right, ungraded but nonetheless influencing your final grade. How and why you asked? First, the assessments will be used to evaluate your work throughout the course and knowledge/experience you gained. Therefore, they will inform the scoring of your graded exams. Second, the research process is not static but continuous and so are your experience and skills. Thus, why would it be fair to assign your work a grade on a rather static outcome? All your efforts should be considered. Additionally, research is by no means a one-person thing (even though modern day science/academia looks/acts this way): it's about folks from different backgrounds coming together to work openly and collaboratively to create, preserve and disseminate knowledge. The way we act and the environment we create are crucial and will thus be evaluated as well.
+
+| Assignment/task | percentage of final grade  | deadline (dd/mm/yyyy, time) |
+|--------------|-----------|------------|
+| assessments | 20% | ongoing basis throughout the semester |
+| demo experiment report | 40% | 08/12/2021, 11:59 PM CET |
+| research experiment report | 40% | 23/02/2022, 11:59 PM CET |
 
 <iframe src="https://giphy.com/embed/yFHkrrbfITemc" width="240" height="173" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/exams-yFHkrrbfITemc">via GIPHY</a></p>
 

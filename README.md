@@ -1,4 +1,4 @@
-![logo](lecture/static/undraw_Processing_re_tbdu.png)
+![logo](lecture/static/undraw_Processing_re_tbdu_expra.png)
 
 ## "What's in this repository?"
 

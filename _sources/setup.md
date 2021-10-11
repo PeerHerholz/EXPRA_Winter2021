@@ -20,6 +20,14 @@ There are a few computing requirements for the course that are absolutely necess
 
 If you foresee any of these being a problem please reach out to one of the instructors for what steps you can take to ensure you are ready for the course start.
 
+## A note on resources for presenting & writing
+
+While you're free to use whatever type of software you want to do presentations and writing during the course, it is highly recommended to check and potentially go for the [Google Docs Editors](https://en.wikipedia.org/wiki/Google_Docs_Editors). 
+
+While this might seem strange at first it offers several tremendous benefits compared to comparable other "classic" software solutions like [Microsoft office](https://en.wikipedia.org/wiki/Microsoft_Office) and [LibreOffice](https://en.wikipedia.org/wiki/LibreOffice): it's a web application and thus works `cross-platform`, it saves your things in the cloud (no more wondering where files went, no more desperate attempts to restore lost files), it has a solution or `writing/presenting/drawing/etc.`, it's `free` (you also don't need a Google account), it supports `real-time collaboration` with `comments/suggestions`, it has in-built `version control` (it keeps track of what was changed when by whom), it can read most other formats/allows to export to most other formats (including `Microsoft`). Additionally, it can be of great help regarding `project organization and management` and offers many `integrations` to other `software` and `platforms` (e.g. [OSF](https://osf.io/)).        
+
+However, the choice of `software` you use for these things **won't affect your grades**, etc. as mentioned above as all deliverable need to be provided in `formats` supported by most `software` (e.g. open formats such as `.csv` or `.json`, as well as `pdf` for presentations and written submissions).
+
 ## Required software
 
 To get the most out of the course, we ask that you install the following software asap but latest after the first lecture:

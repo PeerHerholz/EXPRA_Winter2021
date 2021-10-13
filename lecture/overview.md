@@ -66,6 +66,7 @@ As noted above, this page serves as the syllabus for this course, with the preci
 The course has several textbooks, all of which are online and free:
 
 https://statsthinking21.org/
+https://the-turing-way.netlify.app/
 
 Additional reading material might be added but will always be open & free with students being informed about any addition.
 

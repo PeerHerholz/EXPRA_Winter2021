@@ -1,8 +1,17 @@
 # Course overview & procedure
   
+No matter the scientific field: obtaining a solid understanding of and gaining substantial hands-on experience with research processes and workflows is crucial, with Psychology being no exception to that. Obviously, not everyone will continue in a research setting after their studies but developing a respective skill set will be beneficial independent of what folks might end doing. Critical thinking & evaluation, research project management, quantitative & qualitative analyses, etc. enable a holistic approach to the generation, preservation and dissemination of knowledge, as well as informed decision making. But how should folks learn these things?
+
+<p align="center"><iframe src="https://giphy.com/embed/sgZdwNkOH43wZOEUJ2" width="240" height="240" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/parksandrec-episode-9-parks-and-recreation-rec-sgZdwNkOH43wZOEUJ2"><small>via GIPHY</small></a></p></p>
+
+Traditionally, one way of achieving this is to familiarize students with all parts of the research process early on in their studies with an application to real-world problems and questions. More precisely, folks conduct several experiments, provided and self-chosen, within which they perform all or most of the necessary steps of the research workflow themselves, both in a guided and independent manner. Importantly, all of this will be conducted based on [open science principles](https://en.wikipedia.org/wiki/Open_science). This has several important reasons: addressing the faulty direction science and academia in via changing incentive structures ([open methodology](https://en.wikipedia.org/wiki/Open-notebook_science), [open data](https://en.wikipedia.org/wiki/Open_data), [open access](https://en.wikipedia.org/wiki/Open_access),[open peer review](https://en.wikipedia.org/wiki/Open_peer_review)), enable students to become active and self-sufficient parts of the research and scientific community via the sole utilization of [open-source software](https://en.wikipedia.org/wiki/Open_source) and [open educational resources](https://en.wikipedia.org/wiki/Open_educational_resources), as well as increasing the [diversity and inclusivity of science and academia](https://www.psychologicalscience.org/observer/words-to-action) via the diminution of hurdles and barriers: science by everyone for everyone in an open and welcoming manner.         
+
+<p align="center"><iframe src="https://giphy.com/embed/1oIlL0oaAXUJz2xR4o" width="440" height="140" frameBorder="0" vspace="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="https://giphy.com/gifs/mostexpensivest-viceland-most-expensivest-1oIlL0oaAXUJz2xR4o"><small>via GIPHY</small></a></p></p>
+
 
 ### TL;DR
 
+Within this course we will explore basics of scientific research, specifically how it can be and why it should be utilized within experimental psychology. To do so, we will follow a “learning by doing” approach in a tripartite manner. Starting from a basic introduction into scientific research (Block I), we will run actual experiments (Block II) planned and conducted by you, as well as analyze the resulting data and communicate/present the obtained results (Block III). Thus, we actively seek out realistic examples and workflows that mimic the lifecycle of research projects, trying to present you with both a respective overview and hands-on experience. All of this following [open science principles](https://en.wikipedia.org/wiki/Open_science) as outlined in the [rainbow of open science practices](https://zenodo.org/record/1147025#.YWbeymYzblw) below and the aim to enable you to critically evaluate scientific research. Along this way we will also talk about important adjacent topics such as [#DEI](https://twitter.com/hashtag/DEI?src=hashtag_click) and systematic biases. For a rather precise outline of the course, please consult the respective section.
 
 ![rainbow os](static/rainbow_os.png)
 
@@ -66,6 +75,7 @@ As noted above, this page serves as the syllabus for this course, with the preci
 The course has several textbooks, all of which are online and free:
 
 https://statsthinking21.org/
+https://the-turing-way.netlify.app/
 
 Additional reading material might be added but will always be open & free with students being informed about any addition.
 

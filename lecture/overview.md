@@ -77,6 +77,7 @@ The course has several textbooks, all of which are online and free:
 https://statsthinking21.org/
 https://the-turing-way.netlify.app/
 https://learningstatisticswithr.com/
+https://pandar.netlify.app/lehre/ (in German)
 
 Additional reading material might be added but will always be open & free with students being informed about any addition.
 

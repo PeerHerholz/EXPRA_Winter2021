@@ -74,10 +74,10 @@ As noted above, this page serves as the syllabus for this course, with the preci
 
 The course has several textbooks, all of which are online and free:
 
-https://statsthinking21.org/
-https://the-turing-way.netlify.app/
-https://learningstatisticswithr.com/
-https://pandar.netlify.app/lehre/ (in German)
+https://statsthinking21.org/  
+https://the-turing-way.netlify.app/  
+https://learningstatisticswithr.com/  
+https://pandar.netlify.app/lehre/ (in German)  
 
 Additional reading material might be added but will always be open & free with students being informed about any addition.
 
@@ -109,9 +109,9 @@ Your final course grade will be determined by all these aspects, however with a 
 
 | Assignment/task | percentage of final grade  | deadline (dd/mm/yyyy, time) |
 |--------------|-----------|------------|
-| assessments | 20% | ongoing basis throughout the semester |
+| assessments | 10% | ongoing basis throughout the semester |
 | demo experiment report | 40% | 08/12/2021, 11:59 PM CET |
-| research experiment report | 40% | 23/02/2022, 11:59 PM CET |
+| research experiment report | 50% | 23/02/2022, 11:59 PM CET |
 
 <iframe src="https://giphy.com/embed/yFHkrrbfITemc" width="240" height="173" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/exams-yFHkrrbfITemc">via GIPHY</a></p>
 

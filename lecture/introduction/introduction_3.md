@@ -2,6 +2,12 @@
 
 ## Topics 💡👨🏻‍🏫 
 
+### Pre-registration
+
+#### Objectives
+
+#### Materials
+
 ### Scientific reading & writing
 
 #### Objectives
@@ -11,6 +17,10 @@
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 
 ### Data management plan 
+
+### Pre-registration of demo-experiment
+
+### Analyses of demo-experiment
 
 ### Start writing report 
 

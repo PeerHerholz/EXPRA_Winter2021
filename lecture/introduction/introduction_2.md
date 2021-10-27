@@ -57,3 +57,17 @@ Please go through the articles relevant for the `demo experiment` which are coll
 In preparation for our `scientific reading & writing section`, please go briefly through [Mensh & Kording (2017)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619).
 
 <iframe src="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619" frameborder="0" width="700" height="370"></iframe>
+
+### optional/reading/further materials
+
+Regarding our discussion on `project & data management`, you could watch the "Data management plans in 3 minutes" video below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeDjix_Vs00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Along these lines, you could also check the [Turing Way](https://the-turing-way.netlify.app/welcome.html) 
+
+<iframe src="https://the-turing-way.netlify.app/welcome.html" frameborder="0" width="700" height="370"></iframe>
+
+and [Project Tier](https://www.projecttier.org/).
+
+<iframe src="https://www.projecttier.org/" frameborder="0" width="700" height="370"></iframe>

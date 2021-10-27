@@ -16,14 +16,14 @@ As mentioned in the [overview & procedure]() section, the course will take place
 Please see below for our current _optimistic_ schedule. Depending on our progress, potential problems and different forms of learning, content and times might change a bit. Each lecture will be divided into several parts separated by a 5-10 minute break and might constitute a transition from basic to advanced concepts, theoretic to practical sessions and individual to group work. The different parts are roughly indicated in the schedule below like this:
 
 🗓 - important information on date & time  
-💡 - input from the instructor   
-👨🏻‍🏫 - instructor presents content  
-🥼 - research project work  
-🧑🏽‍💻🧑🏾‍💻 - work on demo experiment  
-🧑🏿‍🔬👩🏻‍🔬 - work on own research project  
-🖥️ - computational work outside course hours  
-✍🏽 - writing outside course hours  
-📖 - reading outside course hours  
+💡 - input from the instructor  
+👨🏻‍🏫 - instructor presents content    
+🥼 - research project work    
+🧑🏽‍💻🧑🏾‍💻 - work on demo experiment    
+🧑🏿‍🔬👩🏻‍🔬 - work on own research project    
+🖥️ - computational work outside course hours    
+✍🏽 - writing outside course hours    
+📖 - reading outside course hours   
 
 **Please note** that the course is scheduled to take place weekly in a 4 hour block, this will change substantially as the semester progresses and you will do more practical work acquiring and analyzing data, work on assignments and do group projects. Thus, some weeks we won't meet at all and some weeks for a certain amount of time. All of this will be communicated to you in a timely manner.  
 

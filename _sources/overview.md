@@ -141,6 +141,29 @@ This course has a `Code of conduct`. Please inform yourself about the specifics 
 
 <iframe src="https://giphy.com/embed/l5s71uAp3CzKwxwkoZ" width="240" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-nbc-the-office-tv-l5s71uAp3CzKwxwkoZ">via GIPHY</a></p>
 
+
+### How to Get Your Question(s) Answered and/or Provide Feedback
+
+It’s great that we have so many ways to communicate, but it can get tricky to figure out who to contact or where your question belongs or when to expect a response. These guidelines are to help you get your question answered as quickly as possible and to ensure that we’re able to get to everyone’s questions.
+
+That said, to ensure that we’re respecting everyone's time and thus will mainly answer questions between normal working hours (M-F 9AM-5PM). The instructors are also going to do their best to stick to these working hours. However, they know that’s not when you may be doing your work. So, please feel free to post messages whenever is best for you while knowing that if you post late at night or on a weekend, you may not get a response until the next weekday. As such, do your best not to wait until the last minute to ask a question.
+
+If you have:
+
+- questions about course content - these are awesome! We want everyone to see them and have their questions answered too, so either use the [hypothes.is](https://web.hypothes.is/) plugin, the `discord` channel, the `e-mail` list or the [GitHub repository](https://github.com/PeerHerholz/Python_for_Psychologists_Winter2021/issues).
+
+- a technical assignment question - come to office hours (or post to `discord`). Answering technical questions is often best accomplished ‘in person’ where we can discuss the question and talk through ideas. However, if that is not possible, post your question to `discord`. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
+
+- been stuck on something for a while (>30min) and aren’t even really sure where to start - Programming can be frustrating and it may not always be obvious what is going wrong or why something isn’t working. That’s OK - we’ve all been there! IF you are stuck, you can and should reach out for help, even if you aren’t exactly sure what your specific question is. To determine when to reach out, consider the 2-hour rule. This rule states that if you are stuck, work on that problem for an hour. Then, take a 30 minute break and do something else. When you come back after your break, try for another 30 minutes or so to solve your problem. If you are still completely stuck, stop and contact us (office hours, post on `discord`). If you don’t have a specific question, include the information you have (what you’re stuck on, the code you’ve been trying that hasn’t been happening, and/or the error messages you’ve been getting).
+
+- questions about course logistics - first, check the [overview](https://peerherholz.github.io/EXPRA_Winter2021/setup.html) & [syllabus](https://peerherholz.github.io/EXPRA_Winter2021/outline.html). If you can’t find the answer there, first ask a classmate. If still unsure, post on `discord`.
+
+- something super cool to share related to class or want to talk about a topic in further depth - feel free to post on `discord`, contact the instructors or come to office hours. 
+
+- some feedback about the course you want to share anonymously - If you’ve been offended by an example in class, really liked or disliked a lesson, or wish there were something covered in class that wasn’t but would rather not share this publicly, etc., please fill out the anonymous Google Form*
+
+*This form can be taken down at any time if it’s not being used for its intended purpose; however, you all will be notified should that happen.
+
 ### Acknowledgements
 
 Several parts of this section are directly taken or adapted from [Alexander Huth's Neuro Data Analysis in Python syllabus](https://github.com/alexhuth/ndap-fa2020) licensed under a [BSD-3-Clause License](https://github.com/alexhuth/ndap-fa2020/blob/master/LICENSE). 

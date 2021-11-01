@@ -150,7 +150,7 @@ That said, to ensure that we’re respecting everyone's time and thus will mainl
 
 If you have:
 
-- questions about course content - these are awesome! We want everyone to see them and have their questions answered too, so either use the [hypothes.is](https://web.hypothes.is/) plugin, the `discord` channel, the `e-mail` list or the [GitHub repository](https://github.com/PeerHerholz/Python_for_Psychologists_Winter2021/issues).
+- questions about course content - these are awesome! We want everyone to see them and have their questions answered too, so either use the [hypothes.is](https://web.hypothes.is/) plugin, the `discord` channel, the `e-mail` list or the [GitHub repository](https://github.com/PeerHerholz/EXPRA_Winter2021/issues).
 
 - a technical assignment question - come to office hours (or post to `discord`). Answering technical questions is often best accomplished ‘in person’ where we can discuss the question and talk through ideas. However, if that is not possible, post your question to `discord`. Be as specific as you can in the question you ask. And, for those answering, help your classmates as much as you can without just giving the answer. Help guide them, point them in a direction, provide pseudo code, but do not provide code that answers assignment questions.
 
@@ -166,5 +166,5 @@ If you have:
 
 ### Acknowledgements
 
-Several parts of this section are directly taken or adapted from [Alexander Huth's Neuro Data Analysis in Python syllabus](https://github.com/alexhuth/ndap-fa2020) licensed under a [BSD-3-Clause License](https://github.com/alexhuth/ndap-fa2020/blob/master/LICENSE). 
+Several parts of this section are directly taken or adapted from [Alexander Huth's Neuro Data Analysis in Python syllabus](https://github.com/alexhuth/ndap-fa2020) licensed under a [BSD-3-Clause License](https://github.com/alexhuth/ndap-fa2020/blob/master/LICENSE) and [Shannon Ellis' COGS 18: Introduction to Python](https://cogs18.github.io/assets/intro/syllabus.html). 
 

@@ -62,6 +62,6 @@ Below you'll find the tasks you should spend a look at for next week's session.
 
 ### check demo experiment literature 
 
-In preparation for our `scientific reading & writing section`, please go briefly through [Mensh & Kording (2017)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619).
+In preparation for our `scientific reading & writing section`, please go briefly through the `ten simple rules` papers (`reading`, `structuring`, `writing`, `reviewing`) in the course `zotero library`.
 
 <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4504479%2Fitems%3Fkey%3DBfP7bN7FF9dJwtyiLBORewdg%26format%3Dbibtex%26limit%3D100" frameborder="0" width="700" height="370"></iframe>

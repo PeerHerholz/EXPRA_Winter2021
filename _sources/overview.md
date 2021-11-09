@@ -97,21 +97,15 @@ The ungraded assessments focus on different parts of the research workflow and y
 - present a research article (journal club) related to your project (individually)
 - conduct reviews of another group's project and provide feedback (in groups) 
 - prepare a scientific poster showcasing the results of your experiment (in groups) 
+- write a research report on the demo experiment (in groups)
 
 The graded exams aim to assess your ability to bring the different parts of the research workflow together:
 
-- write a research report on the demo experiment (in groups)
 - write a 15-page research report in the style of a scientific paper summarizing your experiment (individually) 
 
 ##### Grading
 
-Your final course grade will be determined by all these aspects, however with a different weight. As mentioned above, the graded exams will entail two written research reports. They will have the biggest weight in the calculation of your grade, both 40%. The ungraded assessments will be, you guessed right, ungraded but nonetheless influencing your final grade. How and why you asked? First, the assessments will be used to evaluate your work throughout the course and knowledge/experience you gained. Therefore, they will inform the scoring of your graded exams. Second, the research process is not static but continuous and so are your experience and skills. Thus, why would it be fair to assign your work a grade on a rather static outcome? All your efforts should be considered. Additionally, research is by no means a one-person thing (even though modern day science/academia looks/acts this way): it's about folks from different backgrounds coming together to work openly and collaboratively to create, preserve and disseminate knowledge. The way we act and the environment we create are crucial and will thus be evaluated as well.
-
-| Assignment/task | percentage of final grade  | deadline (dd/mm/yyyy, time) |
-|--------------|-----------|------------|
-| assessments | 10% | ongoing basis throughout the semester |
-| demo experiment report | 40% | 08/12/2021, 11:59 PM CET |
-| research experiment report | 50% | 23/02/2022, 11:59 PM CET |
+As mentioned above, the graded exam will entail the `written research report` of your own `research project` and thus your entire grade for this course will be based on it.
 
 <iframe src="https://giphy.com/embed/yFHkrrbfITemc" width="240" height="173" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/exams-yFHkrrbfITemc">via GIPHY</a></p>
 

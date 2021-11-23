@@ -1,5 +1,5 @@
 # Introduction IV
-Within the fourth session we'll have two topics, including both theoretical and practical aspects. At first, we'll go start going through the basics of one of the major parts of science & academia: `scientific reading and writing`, specifically `finding/organizing scientific publications`. Next, we'll continue to analyze the data acquired within our `demo experiment`. This time, we'll try to dig deeper into the data structures and try to gather data of interest, transforming it to a more intelligible format.   
+Within the fourth session we'll have two topics, including both theoretical and practical aspects. At first, we'll go start going through the basics of one of the major parts of science & academia: `scientific reading and writing`, specifically `finding/organizing` & `reading scientific publications`. Next, we'll continue to analyze the data acquired within our `demo experiment`. This time, we'll try to dig deeper into the data structures and try to gather data of interest, transforming it to a more intelligible format.   
 
 ## Topics 💡👨🏻‍🏫 
 
@@ -38,4 +38,12 @@ Not applicable.
 
 ## tasks for subsequent meeting 🖥️✍🏽📖
 
+### demo experiment
+
 Starting with this session, you should continue to work on things related to your `demo experiment report`, including `finding/organizing & reading publications`, `data management plan` and `pre-registration` outside standard course hours. 
+
+### reading
+
+In preparation for our next `scientific reading & writing section`, please go briefly through the `ten simple rules` paper concerning  `structuring papers`, which you can find in the course `zotero library`.
+
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4504479%2Fitems%3Fkey%3DBfP7bN7FF9dJwtyiLBORewdg%26format%3Dbibtex%26limit%3D100" frameborder="0" width="700" height="370"></iframe>

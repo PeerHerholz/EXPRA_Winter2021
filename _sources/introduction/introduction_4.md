@@ -42,8 +42,7 @@ Not applicable.
 
 Starting with this session, you should continue to work on things related to your `demo experiment report`, including `finding/organizing & reading publications`, `data management plan` and `pre-registration` outside standard course hours. 
 
-### reading
-
-In preparation for our next `scientific reading & writing section`, please go briefly through the `ten simple rules` paper concerning  `structuring papers`, which you can find in the course `zotero library`.
+### check literature concerning scientific publications
+In preparation for our `scientific reading & writing section`, please go briefly through the `ten simple rules` papers (`reading`, `structuring`, `writing`, `reviewing`) in the course `zotero library`.
 
 <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4504479%2Fitems%3Fkey%3DBfP7bN7FF9dJwtyiLBORewdg%26format%3Dbibtex%26limit%3D100" frameborder="0" width="700" height="370"></iframe>

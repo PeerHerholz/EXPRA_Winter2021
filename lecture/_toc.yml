@@ -12,6 +12,7 @@ chapters:
     - file: introduction/introduction_3.md
     - file: introduction/introduction_4.md
     - file: introduction/introduction_5.md
+    - file: introduction/introduction_5.md
 - file: experimentation/experimentation.md
   sections:
     - file: experimentation/experimentation_1.md

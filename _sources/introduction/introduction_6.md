@@ -1,5 +1,5 @@
-# Introduction IV
-Within the third session we'll have two topics, including both theoretical and practical aspects. At first, we'll go start going through the basics of one of the major parts of science & academia: `scientific reading and writing`, specifically `finding/organizing & reading scientific publications`. Next, we'll continue to analyze the data acquired within our `demo experiment`. This time, we'll try to dig deeper into the data structures and try to gather data of interest, transforming it to a more intelligible format.   
+# Introduction VI
+Within the sixth session we'll have two topics, including both theoretical and practical aspects. At first, we'll go start going through the basics of one of the major parts of science & academia: `scientific reading and writing`, specifically `finding/organizing & reading scientific publications`. Next, we'll continue to analyze the data acquired within our `demo experiment`. This time, we'll try to dig deeper into the data structures and try to gather data of interest, transforming it to a more intelligible format.   
 
 ## Topics 💡👨🏻‍🏫 
 

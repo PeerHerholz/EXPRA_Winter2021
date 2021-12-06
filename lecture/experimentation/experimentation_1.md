@@ -20,6 +20,7 @@ We already talked a bit about the `demo experiment` but there's still quite a bi
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTuQAmZibagvolNZo7SM5jSFED625NOIMkiiLvHhQwmaPyeKXoYWvMDupY6yr0sOkpxNBW3KH5qJYdS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/12l5SAa_ulUlnnsLdqUY2VheISxF4_xfJ0na2MDg04eg/present?usp=sharing).
 
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 

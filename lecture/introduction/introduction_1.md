@@ -23,6 +23,8 @@ First things first: what is going to happen in this course? What is it all about
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTe3kgkblYCpRaqrKNUCUQT8NBcqHO-fouOdZ7pv0N0vbDO4SZdW_xNnfJl0lNaduULMc0jyhVu8nu9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/15LW4tYWfcHXzAWtAiTDLf1uSjD1EmaSQ7I_bKHM3g4c/present?usp=sharing).
+
 ### Knowledge generation 
 
 In the second topic of this section, different `sources of knowledge` will be presented & discussed, especially the `scientific approach` and its `goals` & `methods`. 
@@ -39,11 +41,15 @@ In the second topic of this section, different `sources of knowledge` will be pr
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpwHkmWpKgKWA5_qt0PX3GbmVUAqNCLLWENGmifAzhoPvEliNI1UyUWiAg-KtxQSphwiplib0fUD8z/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/1Zqxw373IlY_emIpzUvAPgxGLfyIy3qERpKkwQV4rZS4/present?usp=sharing).
+
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 
 In order to actually work on our `demo project`, we need to take part in it ourselves and generate some data as the basis for the subsequent session. Please check the below slides for the link to the `online experiment` and some information.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqXXLM5ajSoO-WhUcHSRqk_LBoLxD9LVq2TT2rW0ACtWGTDzFDDpkLkfuXCkM7XrrIRKAaU8t2Hj8l/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+You can directly access the slides [here](https://docs.google.com/presentation/d/1JFW8ZVMZxbaT3rkv3tP3HDpPSJO6d7dC1jw-WMNtr70/present?usp=sharing).
 
 ## Project related work 🥼🧑🏿‍🔬👩🏻‍🔬
 

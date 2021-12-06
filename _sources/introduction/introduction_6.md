@@ -20,6 +20,8 @@ After evaluating/discussing how we can find & organize as well as structure & wr
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT-XXW5yFfBa-cYdjwIJxWZHiz4AhozbF98PZz0U5GjcqLHXaJ3PqKCdsehISlNi8WaqWdBNj84wUxG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/1X6mBsbMN9d12-vfsppPwrHupqY4V_dTYCI0vW-FT4QI/present?usp=sharing).
+
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 
 As mentioned above, we'll continue to work on the `demo experiment`. After setting the ground work for the `project & data management aspects`, `literature review` and `demo experiment report structure` in the previous weeks, we’ll directly apply the contents of the `reviewing scientific publications` discussion, as well as further analyze the acquired data.

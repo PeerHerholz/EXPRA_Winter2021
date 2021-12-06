@@ -20,6 +20,8 @@ Last week we've explored how to `find` & `organize scientific publications` usin
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSkP8yEalA91-_snc5zmlgrlqW32GOEOnHyoXCUxGsK11LD0QjJ2MDgbLFdvFJjQVu5Cpevzhy5d0Ak/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/1_V419JmfDWd0g9uZh25B_mFWjeGoO9uF-qiWKFwJByk/present?usp=sharing).
+
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 As mentioned above, we’ll continue to work on the `demo experiment`. After setting the ground work for the `project & data management aspects` and `literature review` in the previous weeks, we’ll directly apply the contents of the `structuting/writing scientific publications` discussion, as well as further analyze the acquired data.
 

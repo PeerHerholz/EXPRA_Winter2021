@@ -22,6 +22,8 @@ these things. However, it can perhaps be improved through various guidelines and
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfypTZmgvRdGfYdszjOOp8D6oqNlVx4AoHy5Ni_wy3vVtuNqJBxRSYMDUXpmDklOFtS1F09TAaWuRT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/1qLCC2hYmIpWIRhTZLIu0mu1vFY6uj8C0flnfW7bf1yE/present?usp=sharing).
+
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 
 As mentioned above, we'll continue to work on the `demo experiment`. After setting the ground work for the `project & data management` aspects last week, we'll directly apply the contents of the `finding/organizing & reading publications` discussion, as well as further analyze the acquired `data`.  

@@ -20,6 +20,8 @@ We discussed quite a bit of tools and resources that can help us to make `resear
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ20yPXCmc2VPeK3ugnN3XKVFLl5icyqhM_cmkWow6vLhc6A6KW44ZPM78KjLQRdtxMn6EwOf3h2OW1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/1FjLHibD1B2sV3RYlflzQZBlJK0M_xtVyCxbr8tDIMos/present?usp=sharing).
+
 ### Replicability crisis, open science & pre-registration
 Yes, you already heard a lot of the current state of the academic system & science, specifically the problems. TL;DR: it's all bad. However, there are a few aspects we still need to discuss in more detail. 
 This session we'll focus on the `replicability/reproducibility crisis` and potential (partial) solutions to it. This will entail outlining various causes of the `replicability/reproducibility crisis` and how, for example, `pre-registration` can be utilized to address parts of it.
@@ -34,6 +36,8 @@ This session we'll focus on the `replicability/reproducibility crisis` and poten
 #### Materials
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRpCiNo_xXkZPz7rka3Z8tvCSYNqSlyTG3t7r89uVLTHmLsFHwr7S3l_oeK1ownuN09xGuzHQzMo-fi/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+You can directly access the slides [here](https://docs.google.com/presentation/d/175zGc6o6S5RwdMm-YZv6HnDCZbC6fejGk4hLbt7Pyvo/present?usp=sharing).
 
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 

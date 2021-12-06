@@ -18,6 +18,7 @@ As said last session: research is hard and super complex. However, it's worse wi
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTl2CEVNxwB9NyyCNE6NcxY8ixotxz1DGuwOPZg_IN8oO3DwfIhYHjY3lVRFjAY3jdy0aY8tpzhogSw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+You can directly access the slides [here](https://docs.google.com/presentation/d/1LzDRCNUh2hmOvbu_kgMjKIxBtML9M5fGEaJjVJh5cXs/present?usp=sharing).
 
 ### Information about the demo experiment
 After taking part in it, it's finally time you learn more about the `demo experiment`. This will entail, some `background information` about the research field we will be working in, i.e. `music/auditory cognition`, the `paradigm` we will be using and the `aim` of the `demo experiment`.
@@ -32,6 +33,9 @@ After taking part in it, it's finally time you learn more about the `demo experi
 #### Materials📓
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv9sMl3gU6ZjS0Jki8VqknoGhJUo9smkC9TES2b8iIaO8_MtsGlVy2pdkeXdUx9PqIhg4YDPLMImjT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+You can directly access the slides [here](https://docs.google.com/presentation/d/1B5jIjPSZ7dQCj4UaLMPT9kF7q90CP8QIDHK3AwW0GQ0/present?usp=sharing).
+
 
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 
@@ -69,6 +73,8 @@ Regarding our discussion on `project & data management`, you could watch the "Da
 Along these lines, you could also check the [Turing Way](https://the-turing-way.netlify.app/welcome.html) 
 
 <iframe src="https://the-turing-way.netlify.app/welcome.html" frameborder="0" width="700" height="370"></iframe>
+</br>
+</br>
 
 and [Project Tier](https://www.projecttier.org/).
 

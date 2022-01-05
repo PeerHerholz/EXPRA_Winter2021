@@ -42,7 +42,7 @@
     <script src="../_static/copybutton.js"></script>
     <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script >
         const thebe_selector = ".thebe"
@@ -290,7 +290,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -326,7 +326,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -402,7 +402,171 @@
         </div>
     </div>
 </div>
-    <div id="main-content" class="row">
+    <!-- Table of contents that is only displayed when printing the page -->
+    <div id="jb-print-docs-body" class="onlyprint">
+        <h1>Introduction IV</h1>
+        <!-- Table of contents -->
+        <div id="print-main-content" class="row">
+            <div class="col-12 col-md-12 pl-md-5 pr-md-5">
+            <div id="jb-print-toc">
+                
+                <div>
+                    <h2> Contents </h2>
+                </div>
+                <nav aria-label="Page">
+                    <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#topics">
+   Topics 💡👨🏻‍🏫
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#scientific-reading-writing-i-finding-organizing-reading-publications">
+     Scientific reading &amp; writing I - finding/organizing &amp; reading publications
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#objectives">
+       Objectives📍
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#materials">
+       Materials📓
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#demo-project-related-work">
+   Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#finding-organizing-reading-publications-wrt-the-demo-experiment">
+     finding/organizing &amp; reading publications wrt the demo experiment
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#analyses-of-demo-experiment">
+     Analyses of demo-experiment
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#project-related-work">
+   Project related work 🥼🧑🏿‍🔬👩🏻‍🔬
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#tasks-for-subsequent-meeting">
+   tasks for subsequent meeting 🖥️✍🏽📖
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#demo-experiment">
+     demo experiment
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#check-literature-concerning-scientific-publications">
+     check literature concerning scientific publications
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                </nav>
+            </div>
+            
+              <div>
+                
+  <div class="section" id="introduction-iv">
+<h1>Introduction IV<a class="headerlink" href="#introduction-iv" title="Permalink to this headline">¶</a></h1>
+<p>Within the fourth session we’ll have two topics, including both theoretical and practical aspects. At first, we’ll go start going through the basics of one of the major parts of science &amp; academia: <code class="docutils literal notranslate"><span class="pre">scientific</span> <span class="pre">reading</span> <span class="pre">and</span> <span class="pre">writing</span></code>, specifically <code class="docutils literal notranslate"><span class="pre">finding/organizing</span></code> &amp; <code class="docutils literal notranslate"><span class="pre">reading</span> <span class="pre">scientific</span> <span class="pre">publications</span></code>. Next, we’ll continue to analyze the data acquired within our <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code>. This time, we’ll try to dig deeper into the data structures and try to gather data of interest, transforming it to a more intelligible format.</p>
+<div class="section" id="topics">
+<h2>Topics 💡👨🏻‍🏫<a class="headerlink" href="#topics" title="Permalink to this headline">¶</a></h2>
+<p>In the following you’ll find the <code class="docutils literal notranslate"><span class="pre">objectives</span></code> and <code class="docutils literal notranslate"><span class="pre">materials</span></code> for each of the topics we’ll discuss during this session.</p>
+<div class="section" id="scientific-reading-writing-i-finding-organizing-reading-publications">
+<h3>Scientific reading &amp; writing I - finding/organizing &amp; reading publications<a class="headerlink" href="#scientific-reading-writing-i-finding-organizing-reading-publications" title="Permalink to this headline">¶</a></h3>
+<p>Sure y’all searched for papers and subsequently read them before, you of course have some idea how to do
+these things. However, it can perhaps be improved through various guidelines and tools/resources and this is exactly what we will discuss in this part of the session. You may ask: “why?”. Well, for lots of reasons. The amount of publish articles increases exponentially since year and an end of this trend appears to be out of sight. Every day more and more publications of various types are out there. Navigating this vast and complex landscape can be cumbersome and frustrating, especially without clear outlines and strategies. Thus, we’ll build upon the <code class="docutils literal notranslate"><span class="pre">project</span> <span class="pre">&amp;</span> <span class="pre">data</span> <span class="pre">management</span></code> basics we explored in the last couple of sessions (e.g. reference/citation managers like <code class="docutils literal notranslate"><span class="pre">zotero</span></code>), explore new tools to discover and organize <code class="docutils literal notranslate"><span class="pre">scientific</span> <span class="pre">literature</span></code>, as well as discuss some guidelines that might help you to improve your reading strategies and outcomes.</p>
+<div class="section" id="objectives">
+<h4>Objectives📍<a class="headerlink" href="#objectives" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p>Increase efficiency wrt finding/organizing &amp; reading scientific publications</p></li>
+<li><p>Explore new ways to find &amp; organize publications</p></li>
+<li><p>Get to know guidelines that help improve reading strategy/performance</p></li>
+<li><p>Ask and answer questions</p></li>
+<li><p>Have a great time</p></li>
+</ul>
+</div>
+<div class="section" id="materials">
+<h4>Materials📓<a class="headerlink" href="#materials" title="Permalink to this headline">¶</a></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfypTZmgvRdGfYdszjOOp8D6oqNlVx4AoHy5Ni_wy3vVtuNqJBxRSYMDUXpmDklOFtS1F09TAaWuRT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>You can directly access the slides <a class="reference external" href="https://docs.google.com/presentation/d/1qLCC2hYmIpWIRhTZLIu0mu1vFY6uj8C0flnfW7bf1yE/present?usp=sharing">here</a>.</p>
+</div>
+</div>
+</div>
+<div class="section" id="demo-project-related-work">
+<h2>Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻<a class="headerlink" href="#demo-project-related-work" title="Permalink to this headline">¶</a></h2>
+<p>As mentioned above, we’ll continue to work on the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code>. After setting the ground work for the <code class="docutils literal notranslate"><span class="pre">project</span> <span class="pre">&amp;</span> <span class="pre">data</span> <span class="pre">management</span></code> aspects last week, we’ll directly apply the contents of the <code class="docutils literal notranslate"><span class="pre">finding/organizing</span> <span class="pre">&amp;</span> <span class="pre">reading</span> <span class="pre">publications</span></code> discussion, as well as further analyze the acquired <code class="docutils literal notranslate"><span class="pre">data</span></code>.</p>
+<div class="section" id="finding-organizing-reading-publications-wrt-the-demo-experiment">
+<h3>finding/organizing &amp; reading publications wrt the demo experiment<a class="headerlink" href="#finding-organizing-reading-publications-wrt-the-demo-experiment" title="Permalink to this headline">¶</a></h3>
+<p>Throughout the first part of the session you’ll add a few new references to your <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">group</span></code>’s <code class="docutils literal notranslate"><span class="pre">zotero</span> <span class="pre">library</span></code>. Besides being a good exercise on the topic and good way to explore the tools/resources introduced in the session a bit further, it has the great side-effect of further populating your <code class="docutils literal notranslate"><span class="pre">zotero</span> <span class="pre">library</span></code> adding <code class="docutils literal notranslate"><span class="pre">references</span></code> that might be useful for writing the <code class="docutils literal notranslate"><span class="pre">demo</span></code> and <code class="docutils literal notranslate"><span class="pre">research</span> <span class="pre">reports</span></code>.</p>
+</div>
+<div class="section" id="analyses-of-demo-experiment">
+<h3>Analyses of demo-experiment<a class="headerlink" href="#analyses-of-demo-experiment" title="Permalink to this headline">¶</a></h3>
+<p>After experiencing first nightmares of un<code class="docutils literal notranslate"><span class="pre">FAIR</span></code> data, we’ll dive further into things. The plan is to explore the <code class="docutils literal notranslate"><span class="pre">data</span></code> in more detail, try to understand it, gather <code class="docutils literal notranslate"><span class="pre">data</span> <span class="pre">of</span> <span class="pre">interest</span></code> and transform it to something more <code class="docutils literal notranslate"><span class="pre">intelligible</span></code>.</p>
+</div>
+</div>
+<div class="section" id="project-related-work">
+<h2>Project related work 🥼🧑🏿‍🔬👩🏻‍🔬<a class="headerlink" href="#project-related-work" title="Permalink to this headline">¶</a></h2>
+<p>Not applicable.</p>
+</div>
+<div class="section" id="tasks-for-subsequent-meeting">
+<h2>tasks for subsequent meeting 🖥️✍🏽📖<a class="headerlink" href="#tasks-for-subsequent-meeting" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="demo-experiment">
+<h3>demo experiment<a class="headerlink" href="#demo-experiment" title="Permalink to this headline">¶</a></h3>
+<p>Starting with this session, you should continue to work on things related to your <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">report</span></code>, including <code class="docutils literal notranslate"><span class="pre">finding/organizing</span> <span class="pre">&amp;</span> <span class="pre">reading</span> <span class="pre">publications</span></code>, <code class="docutils literal notranslate"><span class="pre">data</span> <span class="pre">management</span> <span class="pre">plan</span></code> and <code class="docutils literal notranslate"><span class="pre">pre-registration</span></code> outside standard course hours.</p>
+</div>
+<div class="section" id="check-literature-concerning-scientific-publications">
+<h3>check literature concerning scientific publications<a class="headerlink" href="#check-literature-concerning-scientific-publications" title="Permalink to this headline">¶</a></h3>
+<p>In preparation for our <code class="docutils literal notranslate"><span class="pre">scientific</span> <span class="pre">reading</span> <span class="pre">&amp;</span> <span class="pre">writing</span> <span class="pre">section</span></code>, please go briefly through the <code class="docutils literal notranslate"><span class="pre">ten</span> <span class="pre">simple</span> <span class="pre">rules</span></code> papers (<code class="docutils literal notranslate"><span class="pre">reading</span></code>, <code class="docutils literal notranslate"><span class="pre">structuring</span></code>, <code class="docutils literal notranslate"><span class="pre">writing</span></code>, <code class="docutils literal notranslate"><span class="pre">reviewing</span></code>) in the course <code class="docutils literal notranslate"><span class="pre">zotero</span> <span class="pre">library</span></code>.</p>
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4504479%2Fitems%3Fkey%3DBfP7bN7FF9dJwtyiLBORewdg%26format%3Dbibtex%26limit%3D100" frameborder="0" width="700" height="370"></iframe></div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./introduction"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </div>
+        </div>
+    </div>
+    <div id="main-content" class="row noprint">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
         
               <div>
@@ -507,15 +671,13 @@ these things. However, it can perhaps be improved through various guidelines and
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Peer Herholz<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Peer Herholz<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 

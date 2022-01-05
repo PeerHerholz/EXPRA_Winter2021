@@ -42,7 +42,7 @@
     <script src="../_static/copybutton.js"></script>
     <script async="async" kind="hypothesis" src="https://hypothes.is/embed.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
+    <script src="../_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
     <script >
         const thebe_selector = ".thebe"
@@ -290,7 +290,7 @@
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
         <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
-            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
     </div>
 </div>
 
@@ -326,7 +326,7 @@
         </div>
 
         <!-- Table of contents -->
-        <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
             
             <div class="tocsection onthispage pt-5 pb-3">
                 <i class="fas fa-list"></i> Contents
@@ -419,7 +419,213 @@
         </div>
     </div>
 </div>
-    <div id="main-content" class="row">
+    <!-- Table of contents that is only displayed when printing the page -->
+    <div id="jb-print-docs-body" class="onlyprint">
+        <h1>Introduction II</h1>
+        <!-- Table of contents -->
+        <div id="print-main-content" class="row">
+            <div class="col-12 col-md-12 pl-md-5 pr-md-5">
+            <div id="jb-print-toc">
+                
+                <div>
+                    <h2> Contents </h2>
+                </div>
+                <nav aria-label="Page">
+                    <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#topics">
+   Topics 💡👨🏻‍🏫
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#project-data-management">
+     Project &amp; data management
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#objectives">
+       Objectives📍
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#materials">
+       Materials📓
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#information-about-the-demo-experiment">
+     Information about the demo experiment
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#id1">
+       Objectives📍
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#id2">
+       Materials📓
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#demo-project-related-work">
+   Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#project-related-work">
+   Project related work 🥼🧑🏿‍🔬👩🏻‍🔬
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#tasks-for-subsequent-meeting">
+   tasks for subsequent meeting 🖥️✍🏽📖
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#check-demo-experiment-literature">
+     check demo experiment literature
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#check-literature-for-scientific-reading-writing-section">
+     check literature for scientific reading &amp; writing section
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#optional-reading-further-materials">
+     optional/reading/further materials
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#the-turing-way-project-tier">
+       The Turing Way &amp; Project TIER
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                </nav>
+            </div>
+            
+              <div>
+                
+  <div class="section" id="introduction-ii">
+<h1>Introduction II<a class="headerlink" href="#introduction-ii" title="Permalink to this headline">¶</a></h1>
+<p>Within the second session we’ll spend a fair amount of time on talking about <code class="docutils literal notranslate"><span class="pre">project</span> <span class="pre">&amp;</span> <span class="pre">data</span> <span class="pre">management</span></code> as the necessary prerequisite for any successful research work, specifically with a focus on <code class="docutils literal notranslate"><span class="pre">open</span> <span class="pre">&amp;</span> <span class="pre">reproducible</span> <span class="pre">science</span></code> as well as <code class="docutils literal notranslate"><span class="pre">FAIR</span></code> principles. Additionally, we’ll have a shorter session on the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code> where we will gather your impressions &amp; feedback and furthermore talk about the <code class="docutils literal notranslate"><span class="pre">background</span></code>, <code class="docutils literal notranslate"><span class="pre">idea</span></code> &amp; <code class="docutils literal notranslate"><span class="pre">aim</span></code> of it.</p>
+<div class="section" id="topics">
+<h2>Topics 💡👨🏻‍🏫<a class="headerlink" href="#topics" title="Permalink to this headline">¶</a></h2>
+<p>In the following you’ll find the <code class="docutils literal notranslate"><span class="pre">objectives</span></code> and <code class="docutils literal notranslate"><span class="pre">materials</span></code> for each of the topics we’ll discuss during this session.</p>
+<div class="section" id="project-data-management">
+<h3>Project &amp; data management<a class="headerlink" href="#project-data-management" title="Permalink to this headline">¶</a></h3>
+<p>As said last session: research is hard and super complex. However, it’s worse without clear <code class="docutils literal notranslate"><span class="pre">outlines</span></code>, <code class="docutils literal notranslate"><span class="pre">documentation</span></code> and <code class="docutils literal notranslate"><span class="pre">standardization</span></code>. What are important steps of the <code class="docutils literal notranslate"><span class="pre">research</span> <span class="pre">process</span></code> &amp; how should they be documented? At what point do I need think about incorporating <code class="docutils literal notranslate"><span class="pre">open</span> <span class="pre">&amp;</span> <span class="pre">reproducible</span> <span class="pre">science</span></code>? Are there tools &amp; resources I can use? All these and more questions will be addressed in this session.</p>
+<div class="section" id="objectives">
+<h4>Objectives📍<a class="headerlink" href="#objectives" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p>learn about aspects of project &amp; data management</p></li>
+<li><p>get to know respective tools &amp; resources</p></li>
+<li><p>Ask and answer questions</p></li>
+<li><p>Have a great time</p></li>
+</ul>
+</div>
+<div class="section" id="materials">
+<h4>Materials📓<a class="headerlink" href="#materials" title="Permalink to this headline">¶</a></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTl2CEVNxwB9NyyCNE6NcxY8ixotxz1DGuwOPZg_IN8oO3DwfIhYHjY3lVRFjAY3jdy0aY8tpzhogSw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>You can directly access the slides <a class="reference external" href="https://docs.google.com/presentation/d/1LzDRCNUh2hmOvbu_kgMjKIxBtML9M5fGEaJjVJh5cXs/present?usp=sharing">here</a>.</p>
+</div>
+</div>
+<div class="section" id="information-about-the-demo-experiment">
+<h3>Information about the demo experiment<a class="headerlink" href="#information-about-the-demo-experiment" title="Permalink to this headline">¶</a></h3>
+<p>After taking part in it, it’s finally time you learn more about the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code>. This will entail, some <code class="docutils literal notranslate"><span class="pre">background</span> <span class="pre">information</span></code> about the research field we will be working in, i.e. <code class="docutils literal notranslate"><span class="pre">music/auditory</span> <span class="pre">cognition</span></code>, the <code class="docutils literal notranslate"><span class="pre">paradigm</span></code> we will be using and the <code class="docutils literal notranslate"><span class="pre">aim</span></code> of the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code>.</p>
+<div class="section" id="id1">
+<h4>Objectives📍<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h4>
+<ul class="simple">
+<li><p>review of the demo experiment</p></li>
+<li><p>learn about the demo experiment</p></li>
+<li><p>form demo experiment groups</p></li>
+<li><p>Ask and answer questions</p></li>
+<li><p>Have a great time</p></li>
+</ul>
+</div>
+<div class="section" id="id2">
+<h4>Materials📓<a class="headerlink" href="#id2" title="Permalink to this headline">¶</a></h4>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv9sMl3gU6ZjS0Jki8VqknoGhJUo9smkC9TES2b8iIaO8_MtsGlVy2pdkeXdUx9PqIhg4YDPLMImjT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<p>You can directly access the slides <a class="reference external" href="https://docs.google.com/presentation/d/1B5jIjPSZ7dQCj4UaLMPT9kF7q90CP8QIDHK3AwW0GQ0/present?usp=sharing">here</a>.</p>
+</div>
+</div>
+</div>
+<div class="section" id="demo-project-related-work">
+<h2>Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻<a class="headerlink" href="#demo-project-related-work" title="Permalink to this headline">¶</a></h2>
+<p>Closely follow the <code class="docutils literal notranslate"><span class="pre">session</span></code> that focuses on the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code> to learn more about it. Next session we will start analyzing the acquired <code class="docutils literal notranslate"><span class="pre">dataset</span></code> and you’ll start implementing the things we talked about, including <code class="docutils literal notranslate"><span class="pre">OSF</span></code> projects, <code class="docutils literal notranslate"><span class="pre">shared</span> <span class="pre">libraries</span></code>, <code class="docutils literal notranslate"><span class="pre">data</span> <span class="pre">management</span> <span class="pre">plans</span></code> and <code class="docutils literal notranslate"><span class="pre">pre-registration</span></code>, as well as start working on the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">reports</span></code>.</p>
+</div>
+<div class="section" id="project-related-work">
+<h2>Project related work 🥼🧑🏿‍🔬👩🏻‍🔬<a class="headerlink" href="#project-related-work" title="Permalink to this headline">¶</a></h2>
+<p>Not applicable, as project related work didn’t start yet.</p>
+</div>
+<div class="section" id="tasks-for-subsequent-meeting">
+<h2>tasks for subsequent meeting 🖥️✍🏽📖<a class="headerlink" href="#tasks-for-subsequent-meeting" title="Permalink to this headline">¶</a></h2>
+<p>Below you’ll find the tasks you should spend a look at for next week’s session.</p>
+<div class="section" id="check-demo-experiment-literature">
+<h3>check demo experiment literature<a class="headerlink" href="#check-demo-experiment-literature" title="Permalink to this headline">¶</a></h3>
+<p>Please go through the articles relevant for the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code> which are collected in the respective <a class="reference external" href="https://www.zotero.org/groups/4476011/expra_winter_term_2021_demo_experiment">zotero group</a>. It’s not that crucial to go through everything in detail and you can definitely skip the in-depth math parts. The basic idea is to provide you with more context about the framework and idea, as well as a starting point for your own library. However, it would be important to at least go through <a class="reference external" href="http://doi.org/10.3389/fpsyg.2012.00245">Kriegeskorte &amp; Mur (2021)</a> and <a class="reference external" href="http://doi.org/10.1016/j.tics.2013.06.007">Kriegeskorte &amp; Kievit (2013)</a> as these publications are central regarding the <code class="docutils literal notranslate"><span class="pre">paradigm</span></code> we are using.</p>
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4476011%2Fitems%3Fkey%3DBfP7bN7FF9dJwtyiLBORewdg%26format%3Dbibtex%26limit%3D100" frameborder="0" width="700" height="370"></iframe>
+</div>
+<div class="section" id="check-literature-for-scientific-reading-writing-section">
+<h3>check literature for scientific reading &amp; writing section<a class="headerlink" href="#check-literature-for-scientific-reading-writing-section" title="Permalink to this headline">¶</a></h3>
+<p>In preparation for our <code class="docutils literal notranslate"><span class="pre">scientific</span> <span class="pre">reading</span> <span class="pre">&amp;</span> <span class="pre">writing</span> <span class="pre">section</span></code>, please go briefly through <a class="reference external" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619">Mensh &amp; Kording (2017)</a>.</p>
+<iframe src="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619" frameborder="0" width="700" height="370"></iframe>
+</div>
+<div class="section" id="optional-reading-further-materials">
+<h3>optional/reading/further materials<a class="headerlink" href="#optional-reading-further-materials" title="Permalink to this headline">¶</a></h3>
+<p>Regarding our discussion on <code class="docutils literal notranslate"><span class="pre">project</span> <span class="pre">&amp;</span> <span class="pre">data</span> <span class="pre">management</span></code>, you could watch the “Data management plans in 3 minutes” video below.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeDjix_Vs00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="section" id="the-turing-way-project-tier">
+<h4>The Turing Way &amp; Project TIER<a class="headerlink" href="#the-turing-way-project-tier" title="Permalink to this headline">¶</a></h4>
+<p>Along these lines, you could also check the <a class="reference external" href="https://the-turing-way.netlify.app/welcome.html">Turing Way</a></p>
+<iframe src="https://the-turing-way.netlify.app/welcome.html" frameborder="0" width="700" height="370"></iframe>
+</br>
+</br>
+<p>and <a class="reference external" href="https://www.projecttier.org/">Project Tier</a>.</p>
+<iframe src="https://www.projecttier.org/" frameborder="0" width="700" height="370"></iframe></div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./introduction"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </div>
+        </div>
+    </div>
+    <div id="main-content" class="row noprint">
         <div class="col-12 col-md-9 pl-md-3 pr-md-0">
         
               <div>
@@ -549,15 +755,13 @@
         </div>
     </div>
     <footer class="footer">
-    <div class="container">
-      <p>
-        
-          By Peer Herholz<br/>
-        
-            &copy; Copyright 2021.<br/>
-      </p>
-    </div>
-  </footer>
+  <p>
+    
+      By Peer Herholz<br/>
+    
+        &copy; Copyright 2021.<br/>
+  </p>
+</footer>
 </main>
 
 

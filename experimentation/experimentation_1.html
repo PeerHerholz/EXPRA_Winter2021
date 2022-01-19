@@ -385,19 +385,20 @@
         </div>
     </div>
 </div>
-    <!-- Table of contents that is only displayed when printing the page -->
-    <div id="jb-print-docs-body" class="onlyprint">
-        <h1>Experimentation I</h1>
-        <!-- Table of contents -->
-        <div id="print-main-content" class="row">
-            <div class="col-12 col-md-12 pl-md-5 pr-md-5">
-            <div id="jb-print-toc">
-                
-                <div>
-                    <h2> Contents </h2>
-                </div>
-                <nav aria-label="Page">
-                    <ul class="visible nav section-nav flex-column">
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Experimentation I</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#topics">
    Topics 💡👨🏻‍🏫
@@ -446,7 +447,9 @@
  </li>
 </ul>
 
-                </nav>
+                        </nav>
+                    </div>
+                </div>
             </div>
             
               <div>
@@ -515,80 +518,8 @@
 
               </div>
               
-            </div>
-        </div>
-    </div>
-    <div id="main-content" class="row noprint">
-        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
-        
-              <div>
-                
-  <div class="section" id="experimentation-i">
-<h1>Experimentation I<a class="headerlink" href="#experimentation-i" title="Permalink to this headline">¶</a></h1>
-<p>Within the eighth session we’ll focus solely on the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code> and its <code class="docutils literal notranslate"><span class="pre">analysis</span></code> to pave the way for the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">reports</span></code> and the transition to your <code class="docutils literal notranslate"><span class="pre">research</span> <span class="pre">experiments</span></code> where you’ll use the same experiment framework (stimulus set, paradigm, online platform) to address your own hypotheses using the analyzes we discussed and went through in <code class="docutils literal notranslate"><span class="pre">R</span></code>.</p>
-<div class="section" id="topics">
-<h2>Topics 💡👨🏻‍🏫<a class="headerlink" href="#topics" title="Permalink to this headline">¶</a></h2>
-<p>In the following you’ll find the <code class="docutils literal notranslate"><span class="pre">objectives</span></code> and <code class="docutils literal notranslate"><span class="pre">materials</span></code> for each of the topics we’ll discuss during this session.</p>
-<div class="section" id="experimentation-i-the-demo-experiment-in-more-depth">
-<h3>Experimentation I - the demo experiment in more depth<a class="headerlink" href="#experimentation-i-the-demo-experiment-in-more-depth" title="Permalink to this headline">¶</a></h3>
-<p>We already talked a bit about the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code> but there’s still quite a bit of information missing to actually understand it in more detail and write the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">report</span></code>. Within this session we will try to address the missing pieces, specifically: what are these “representations” again, how can we compare them the models we assumed, what are the statistical analyzes involved there and how can we interpret the respective outcomes?</p>
-<div class="section" id="objectives">
-<h4>Objectives📍<a class="headerlink" href="#objectives" title="Permalink to this headline">¶</a></h4>
-<ul class="simple">
-<li><p>Learn about more about the demo experiment</p></li>
-<li><p>finish the analyzes and learn how to interpret outcomes</p></li>
-<li><p>Ask and answer questions</p></li>
-<li><p>Have a great time</p></li>
-</ul>
-</div>
-<div class="section" id="materials">
-<h4>Materials📓<a class="headerlink" href="#materials" title="Permalink to this headline">¶</a></h4>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTuQAmZibagvolNZo7SM5jSFED625NOIMkiiLvHhQwmaPyeKXoYWvMDupY6yr0sOkpxNBW3KH5qJYdS/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-<p>You can directly access the slides <a class="reference external" href="https://docs.google.com/presentation/d/12l5SAa_ulUlnnsLdqUY2VheISxF4_xfJ0na2MDg04eg/present?usp=sharing">here</a>.</p>
-</div>
-</div>
-</div>
-<div class="section" id="demo-project-related-work">
-<h2>Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻<a class="headerlink" href="#demo-project-related-work" title="Permalink to this headline">¶</a></h2>
-<p>As mentioned above, we’ll continue to work on the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span></code>, this going into the details regarding the statistical analyzes and try to finish our <code class="docutils literal notranslate"><span class="pre">R</span></code> script so that y’all can work in the corresponding aspects of the <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">report</span></code>.</p>
-</div>
-<div class="section" id="project-related-work">
-<h2>Project related work 🥼🧑🏿‍🔬👩🏻‍🔬<a class="headerlink" href="#project-related-work" title="Permalink to this headline">¶</a></h2>
-<p>Start thinking about hypotheses you would like to investigate using the experiment framework and analyzes of the demo experiment. Potentially, share your ideas with the rest of the course and try to build groups based on common ideas/interests.</p>
-</div>
-<div class="section" id="tasks-for-subsequent-meeting">
-<h2>tasks for subsequent meeting 🖥️✍🏽📖<a class="headerlink" href="#tasks-for-subsequent-meeting" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="demo-project">
-<h3>demo project<a class="headerlink" href="#demo-project" title="Permalink to this headline">¶</a></h3>
-<p>You should continue to work on things related to your <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">report</span></code>, including <code class="docutils literal notranslate"><span class="pre">finding/organizing</span> <span class="pre">&amp;</span> <span class="pre">reading</span> <span class="pre">publications</span></code>, <code class="docutils literal notranslate"><span class="pre">data</span> <span class="pre">management</span> <span class="pre">plan</span></code> and <code class="docutils literal notranslate"><span class="pre">pre-registration</span></code> outside standard course hours. Additionally, you should try to incorporate the things we discussed in this session into your <code class="docutils literal notranslate"><span class="pre">demo</span> <span class="pre">experiment</span> <span class="pre">report</span></code> draft and start writing more precise drafts, including all sections.</p>
-</div>
-</div>
-</div>
-
-    <script type="text/x-thebe-config">
-    {
-        requestKernel: true,
-        binderOptions: {
-            repo: "binder-examples/jupyter-stacks-datascience",
-            ref: "master",
-        },
-        codeMirrorConfig: {
-            theme: "abcdef",
-            mode: "python"
-        },
-        kernelOptions: {
-            kernelName: "python3",
-            path: "./experimentation"
-        },
-        predefinedOutput: true
-    }
-    </script>
-    <script>kernelName = 'python3'</script>
-
-              </div>
-              
-        
-            <!-- Previous / next buttons -->
+            
+                <!-- Previous / next buttons -->
 <div class='prev-next-area'> 
     <a class='left-prev' id="prev-link" href="experimentation.html" title="previous page">
         <i class="fas fa-angle-left"></i>
@@ -605,7 +536,7 @@
     <i class="fas fa-angle-right"></i>
     </a>
 </div>
-        
+            
         </div>
     </div>
     <footer class="footer">

@@ -1,5 +1,5 @@
 # Experimentation I
-Within the eighth session we'll focus solely on the `demo experiment` and its `analysis` to pave the way for the `demo experiment reports` and the transition to your `research experiments` where you'll use the same experiment framework (stimulus set, paradigm, online platform) to address your own hypotheses using the analyzes we discussed and went through in `R`. 
+Within the seventh session we'll focus solely on the `demo experiment` and its `analysis` to pave the way for the `demo experiment reports` and the transition to your `research experiments` where you'll use the same experiment framework (stimulus set, paradigm, online platform) to address your own hypotheses using the analyzes we discussed and went through in `R`. 
 
 ## Topics 💡👨🏻‍🏫 
 

@@ -1,13 +1,30 @@
-# Experimentation III
-Within the eleventh session we'll have a split between the `research experiments` and the `demo experiments`. In more detail, we will hear the last two `journal club presentations` and starting reviewing your `demo experiment reports` via the respective feedback that was shared with you. The respective content should help you to further advance with regard to your research experiments, theoretically and practically.  
+# Experimentation IV
+Within the tenth session we'll once again focus solely on the `research experiments`. Specifically, we will briefly explore how you can monitor your experiments and get the respective data, as well as start with the `journal club presentations` to get a first glimpse of what y'all are working on and provide some feedback. Both parts should help you to further advance with regard to your research experiments, theoretically and practically.  
 
 ## Topics 💡👨🏻‍🏫 
 
-There will be no direct "classic" input from the instructor during this session.
+In the following you'll find the `objectives` and `materials` for each of the topics we'll discuss during this session.
+
+### The future is now - research experiments via online platforms - a brief update
+We already talked a bit about the `experiment`, including how you set up your own experiments on [meadows](https://meadows-research.com/). At this time, every group implemented and tested their respective experiments which enabled us to go "live", i.e. the data acquisition is currently running. However, so far we haven't addressed how you can actually monitor your experiments and download/get the respective data. This will include both broad and in-depth options, that should additionally allow you to spot potential problems and think about strategies to get more participants. Ideally, every group should check their experiment at least once per day and download new data asap, storing it at various places. 
+
+#### Objectives📍
+
+- learn how to monitor online experiment and get respective data
+- Ask and answer questions
+- Have a great time
+
+
+#### Materials📓
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQmuA7eoETa5jbdSEwLPb0mj-iLg56mcmO5YFfzAZD6sqEN6eKKgxdy8ruuvly0xXoO5JAMYo_cUw37/embed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="370" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+You can directly access the slides [here](https://docs.google.com/presentation/d/1c-KCR0qWROM5APpN5j_hqEhcO07P-We052K2IIcibjs/edit?usp=sharing).
 
 ## Demo project related work 🥼🧑🏽‍💻🧑🏾‍💻  
 
-After a lot of hard work it's finally time to talk about your `demo experiment reports`. In particular, the instructor will meet with each group to share and discuss the prepared review and feedback in as much detail as possible. This will include an overall summary as well as precise in-line comments throughout your `demo experiment reports`. Both will be provided via a shared doc so that we continue to discuss certain aspects and questions also outside the course hours. 
+You did folks, you finished and submitted the `demo experiment report`. Great job and fantastic work, you did really really well!
+Thanks for your efforts and interesting questions/discussions regarding this! As mentioned before, we will go back to your `demo experiment reports` next week and start to go through them in a very detailed manner. 
 
 ## Project related work 🥼🧑🏿‍🔬👩🏻‍🔬
 

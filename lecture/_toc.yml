@@ -18,13 +18,13 @@ chapters:
     - file: experimentation/experimentation_1.md
     - file: experimentation/experimentation_2.md
     - file: experimentation/experimentation_3.md
+    - file: experimentation/experimentation_4.md
+    - file: experimentation/experimentation_5.md
 - file: finalization/finalization.md
   sections:
     - file: finalization/finalization_1.md
     - file: finalization/finalization_2.md
     - file: finalization/finalization_3.md
-    - file: finalization/finalization_4.md
-    - file: finalization/finalization_5.md
 - file: projects
 - file: break
 - file: questionnaires
